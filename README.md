@@ -6,3 +6,4 @@
 
 [Написание и отправка JOIN-запросов](https://docs.google.com/spreadsheets/d/1N92Fg1FTpDozMy-3_2D3nEBXUByoFnReiuZ5tGYglRQ/edit?usp=sharing)
 
+[Написание и отправка запросов для MongoDB](https://docs.google.com/spreadsheets/d/12FsZ6M8tYZ5ScBf8XfGyySv--RNM948bCG5Z_rKGxYk/edit?usp=sharing)
